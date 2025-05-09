@@ -1,2 +1,5 @@
 # LOTUS-COCONUT_search
-LOTUS-COCONUT merged DB compound search
+
+
+This code search chemical data from single species or species list from the LOTUS-COCONUT merged DB
+Names can be searched using WCVP or NCBI data (names or ID)
